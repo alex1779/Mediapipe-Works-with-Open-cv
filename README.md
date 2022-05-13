@@ -5,7 +5,7 @@ From: https://google.github.io/mediapipe/
 ```
 conda create -n mediapipeWorksWithOpenCv -y && conda activate mediapipeWorksWithOpenCv && conda install python=3.9.7 -y
 git clone https://github.com/alex1779/Mediapipe-Works-with-Open-cv.git
-cd mediapipeWorks
+cd Mediapipe-Works-with-Open-cv
 pip install -r requirements.txt
 ```
 
