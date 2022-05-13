@@ -16,15 +16,15 @@ pip install -r requirements.txt
 ```
 python drawLandmarkPoints_webcam.py
 ```
- *** looks like below
+ 
 
 ![Face Mesh](https://github.com/alex1779/Mediapipe-Works-with-Open-cv/blob/master/imgs/01.gif)
 
 
 ```
-python drawTesselation_webcam.py.py
+python drawTesselation_webcam.py
 ```
- *** looks like below
+ 
 
 ![Face Mesh](https://github.com/alex1779/Mediapipe-Works-with-Open-cv/blob/master/imgs/02.gif)
 
@@ -32,7 +32,7 @@ python drawTesselation_webcam.py.py
 ```
 python drawContourFace_webcam.py
 ```
- *** looks like below
+ 
 
 ![Face Mesh](https://github.com/alex1779/Mediapipe-Works-with-Open-cv/blob/master/imgs/03.gif)
 
@@ -40,7 +40,7 @@ python drawContourFace_webcam.py
 ```
 python alignedFaceHorizontal_webcam.py
 ```
- *** looks like below
+ 
 
 ![Face Mesh](https://github.com/alex1779/Mediapipe-Works-with-Open-cv/blob/master/imgs/04.gif)
 
@@ -48,7 +48,7 @@ python alignedFaceHorizontal_webcam.py
 ```
 python detect_side_face_webcam
 ```
- *** looks like below
+
 
 ![Face Mesh](https://github.com/alex1779/Mediapipe-Works-with-Open-cv/blob/master/imgs/05.gif)
 
