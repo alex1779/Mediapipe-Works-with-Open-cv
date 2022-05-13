@@ -34,7 +34,7 @@ python drawContourFace_webcam.py
 ```
  *** looks like below
 
-![Face Mesh](https://github.com/alex1779/mediapipeWorks/blob/master/imgs/03.gif)
+![Face Mesh](https://github.com/alex1779/Mediapipe-Works-with-Open-cv/blob/master/imgs/03.gif)
 
 
 ```
@@ -42,7 +42,7 @@ python alignedFaceHorizontal_webcam.py
 ```
  *** looks like below
 
-![Face Mesh](https://github.com/alex1779/mediapipeWorks/blob/master/imgs/04.gif)
+![Face Mesh](https://github.com/alex1779/Mediapipe-Works-with-Open-cv/blob/master/imgs/04.gif)
 
 
 ```
@@ -50,7 +50,7 @@ python detect_side_face_webcam
 ```
  *** looks like below
 
-![Face Mesh](https://github.com/alex1779/mediapipeWorks/blob/master/imgs/05.gif)
+![Face Mesh](https://github.com/alex1779/Mediapipe-Works-with-Open-cv/blob/master/imgs/05.gif)
 
 
 ## How works
