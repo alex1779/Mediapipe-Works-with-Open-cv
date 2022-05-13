@@ -46,7 +46,7 @@ python alignedFaceHorizontal_webcam.py
 
 
 ```
-python detect_side_face_webcam
+python detect_side_face_webcam.py
 ```
 
 
