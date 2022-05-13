@@ -1,1 +1,0 @@
-# Mediapipe-Works-with-Open-cv
