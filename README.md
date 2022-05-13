@@ -18,7 +18,7 @@ python drawLandmarkPoints_webcam.py
 ```
  *** looks like below
 
-![Face Mesh](https://github.com/alex1779/mediapipeWorks/blob/master/imgs/01.gif)
+![Face Mesh](https://github.com/alex1779/Mediapipe-Works-with-Open-cv/blob/master/imgs/01.gif)
 
 
 ```
@@ -26,7 +26,7 @@ python drawTesselation_webcam.py.py
 ```
  *** looks like below
 
-![Face Mesh](https://github.com/alex1779/mediapipeWorks/blob/master/imgs/02.gif)
+![Face Mesh](https://github.com/alex1779/Mediapipe-Works-with-Open-cv/blob/master/imgs/02.gif)
 
 
 ```
